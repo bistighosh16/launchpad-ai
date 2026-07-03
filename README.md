@@ -28,6 +28,12 @@
 
 ---
 
+## 🚀 Live Demo
+
+🌐 **[Try LaunchPad AI Live →](https://launchpad-ai-vivi.streamlit.app/)**
+
+---
+
 ## ✨ What Is LaunchPad AI?
 
 **LaunchPad AI** is an AI-powered landing page blueprint generator. Describe your product in a single sentence, and it generates a complete, well-structured landing page with:
@@ -70,17 +76,6 @@ Accent       #B57BFF   (electric purple)
 
 ---
 
-## 🚀 Live Demo
-
-🌐 **[Try LaunchPad AI Live](https://launchpad-ai.streamlit.app)** *(coming soon)*
-
----
-
-## 📸 Screenshots
-
-*Coming soon — beautiful screenshots of the landing page, generator, and outputs*
-
----
 
 ## 🛠️ Tech Stack
 
